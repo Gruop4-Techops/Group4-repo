@@ -6,6 +6,7 @@ ll -h
 sleep 2
 lscpu
 free -m
+sleep2
 df -h
 du -h
 free -g
