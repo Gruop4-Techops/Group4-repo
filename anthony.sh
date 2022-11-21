@@ -7,4 +7,4 @@ free -g
 sleep 1
 lscpu
 sleep 1
-top -n 2
+top -n 3
